@@ -7,7 +7,7 @@ Pada proyek ini, kami akan melakukan analisis data terkait penjualan dan ulasan 
 ### Tujuan
 - Menganalisis Tren Penjualan: Tujuan utama proyek ini adalah untuk menganalisis tren penjualan video game di berbagai wilayah, termasuk Amerika Utara, Eropa, dan Jepang. Kami akan mencoba memahami bagaimana preferensi pasar berbeda-beda di seluruh dunia.
 
-- Menentukan Faktor Kesuksesan Game: Kami akan mencoba mengidentifikasi faktor-faktor yang berkontribusi terhadap kesuksesan suatu game, baik dari segi penjualan maupun ulasan. Ini termasuk memeriksa hubungan antara skor ulasan kritikus, skor ulasan pengguna, genre, platform, dan rating ESRB dengan penjualan game.
+- Menentukan Faktor Kesuksesan Game: Kami akan mencoba mengidentifikasi faktor-faktor yang berkontribusi terhadap kesuksesan suatu game, baik dari segi penjualan maupun ulasan. Ini termasuk memeriksa hubungan antara skor ulasan kritikus, skor ulasan pengguna, genre, dan, platform.
 
 - Merencanakan Kampanye Iklan: Melalui pemahaman yang kami peroleh dari analisis data, kami akan merencanakan kampanye iklan yang lebih efektif untuk game-game yang memiliki potensi tinggi. Hal ini akan membantu toko online "Ice" dalam meningkatkan penjualan dan memaksimalkan keuntungan.
 
